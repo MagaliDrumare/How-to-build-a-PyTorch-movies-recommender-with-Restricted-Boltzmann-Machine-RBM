@@ -8,6 +8,7 @@
 * Generate Music in TensorFlow Siraj Raval (with RBM) : https://youtu.be/ZE7qWXX05T0
 
 # RBM Model for movie recommender 
+* RBM movie recommender, Learning A-Z Udemy: http://bit.ly/2hpHS2j
 
 ```python
 ### Part 1 : Creating the architecture of the Neural Network 
