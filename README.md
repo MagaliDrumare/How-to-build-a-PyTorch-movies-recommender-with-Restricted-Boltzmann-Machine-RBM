@@ -4,6 +4,7 @@
 * Restricted Boltzmann Machines by Geoffrey Hinton : https://youtu.be/EZOpZzUKl48
 * An example of RBM learning by Geoffrey Hinton  : https://youtu.be/iHaS6O1eox4
 * Boltzmann Machine Deep Learning A-Z Udemy : http://bit.ly/2yWF6eP
+* Generate Music in TensorFlow Siraj Raval (with RBM) : https://youtu.be/ZE7qWXX05T0
 
 ```
 01-Caracteristics of Boltzmann Machine. 
